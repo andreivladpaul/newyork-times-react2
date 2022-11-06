@@ -5,7 +5,7 @@ export default function Home() {
   return (
         <Row>
             <Col className='d-flex justify-content-center'>
-                <img src="http://millennialmindedpodcast.com/wp-content/uploads/2018/04/new-york-times-logo-png-transparent.png" alt="new york times logo" />
+                <img src="../../img/the-new-york-times-logo-3.png" alt="new york times logo" />
             </Col>
         </Row>
   )
